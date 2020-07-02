@@ -35,7 +35,7 @@
         <java.version>1.8</java.version>
         <mybatis-boot-version>1.3.2</mybatis-boot-version>
         <dbcp-version>2.2.0</dbcp-version>
-        <mysql-version>5.1.46</mysql-version>
+        <mysql-version>8.0.16</mysql-version>
         <dom4j-version>1.6.1</dom4j-version>
         <beanutils-version>1.9.3</beanutils-version>
         <commonsio-version>2.6</commonsio-version>
