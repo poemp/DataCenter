@@ -41,7 +41,7 @@
         <commonsio-version>2.6</commonsio-version>
         <fastjson-version>1.2.32</fastjson-version>
         <msg-version>1.02.01-SNAPSHOT</msg-version>
-        <http-version>4.3</http-version>
+        <http-version>4.5.13</http-version>
         <lang3-version>3.7</lang3-version>
         <guava-version>25.0-jre</guava-version>
         <dubbo-version>2.6.1</dubbo-version>
