@@ -39,7 +39,7 @@
         <dom4j-version>1.6.1</dom4j-version>
         <beanutils-version>1.9.3</beanutils-version>
         <commonsio-version>2.6</commonsio-version>
-        <fastjson-version>1.2.32</fastjson-version>
+        <fastjson-version>1.2.83</fastjson-version>
         <msg-version>1.02.01-SNAPSHOT</msg-version>
         <http-version>4.3</http-version>
         <lang3-version>3.7</lang3-version>
